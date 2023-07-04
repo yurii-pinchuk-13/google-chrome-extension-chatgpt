@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = 'YOUR API KEY';
 
 document.addEventListener('DOMContentLoaded', async () => {
     const chatForm = document.getElementById("chat-form");
